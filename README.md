@@ -13,7 +13,7 @@ Need to download the https://processing.org/download/ Processing IDE.
 2. Upload “Base Station.ino” to Base Station teensy board
 
 3. Upload “Payload_transmitting_unit.ino” to Rover teensy board
-    All motor pins and configurations stated in the code
+	All motor pins and configurations stated in the code
 
 4. Open the “wireless_xbox.pde” in Processing IDE
 5. Select the correct port number for the microcontroller in Processing IDE
