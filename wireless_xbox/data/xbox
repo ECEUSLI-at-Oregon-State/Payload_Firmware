@@ -1,0 +1,4 @@
+Xbox remote control for rover
+FBdirection	forward-backward	3	SLIDER	Y Axis	0	1.0	0.0
+LRdirection	left-right	3	SLIDER	X Axis	0	1.0	0.0
+UDdirection	up-down	3	SLIDER	Y Rotation	0	1.0	0.0
